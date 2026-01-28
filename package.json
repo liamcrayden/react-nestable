@@ -1,5 +1,5 @@
 {
-  "name": "react-nestable",
+  "name": "@liamcrayden/react-nestable",
   "version": "1.0.1",
   "description": "Drag & drop hierarchical list made as a react component",
   "main": "dist/index.js",
