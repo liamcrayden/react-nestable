@@ -15,21 +15,21 @@
 ## Installation
 
 ```
-npm install -save react-nestable
+npm install -save @liamcrayden/react-nestable
 ```
 ```
-yarn add --dev react-nestable
+yarn add --dev @liamcrayden/react-nestable
 ```
 
 ## Usage
 
 ```
-import Nestable from 'react-nestable';
+import Nestable from '@liamcrayden/react-nestable';
 
 // this usually goes once
 // to the entry point of the whole app
 // (e.g. src/index.js)
-import 'react-nestable/dist/styles/index.css';
+import '@liamcrayden/react-nestable/dist/styles/index.css';
 
 // every item must have a unique `id`
 // in order to distinguish elements
